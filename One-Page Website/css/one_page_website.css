@@ -1,0 +1,24 @@
+p {
+    font-family: Arial;
+    font-size: large;
+}
+
+.reservation form {
+    align-self: center;
+}
+
+.rsvp {
+    width: 18%;
+    text-align: center;
+    font-size:large;
+    margin: 1% auto;
+    border: 3px solid #000;
+    border-radius: 5px;
+    background: #CECECE;
+}
+/*
+.submit input[type="submit"] {
+    font-size: x-large;
+    cursor: pointer;
+}
+*/
